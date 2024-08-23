@@ -17,7 +17,7 @@ A simple GUI for downloading YouTube videos using yt-dlp and wxPython.
 1. 确保你已安装Python 3.6+
 2. 克隆此仓库：
    ```
-   git clone https://github.com/yourusername/youtube-downloader-gui.git
+   git clone https://github.com/leoyang1984/youtube_download_wx.git
    ```
 3. 进入项目目录：
    ```
