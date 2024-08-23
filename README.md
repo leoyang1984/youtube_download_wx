@@ -24,9 +24,8 @@ A simple GUI for downloading YouTube videos using yt-dlp and wxPython.
    cd youtube-downloader-gui
    ```
 4. 安装依赖：
-   ```
-   pip install -r requirements.txt
-   ```
+ - wxPython
+ - yt-dlp
 
 ## 使用方法
 
@@ -49,7 +48,8 @@ python youtube_download_wx.py
 
 ## 注意事项
 
-请遵守YouTube的服务条款和相关版权法。此工具仅用于个人和教育目的。
+请遵守YouTube的服务条款和相关版权法。此工具仅用于个人和教育目的。     
+这个脚本还可以下载B站、P站等视频网站的视频，其它网站没有尝试。
 
 ## 贡献
 
