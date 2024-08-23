@@ -33,7 +33,7 @@ A simple GUI for downloading YouTube videos using yt-dlp and wxPython.
 运行以下命令启动程序：
 
 ```
-python youtube_downloader_gui.py
+python youtube_download_wx.py
 ```
 
 1. 在URL输入框中粘贴YouTube视频链接
